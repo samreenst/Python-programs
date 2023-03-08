@@ -1,0 +1,14 @@
+'''for string in "Python Loops":
+    if string == 'o':
+        continue
+    print("Current letter:",string) '''
+    
+    
+'''for string in "Python Loops":
+    if string == 'L':
+        break
+    print("Current letter:",string)    '''
+
+for string in "Python Loops":
+   pass
+print("Current letter:",string)  
